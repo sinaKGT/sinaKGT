@@ -45,15 +45,18 @@
 ### ⚙️ &nbsp;*My GitHub Analytics*
 <p align="center">
 <a href="https://github.com/sinaKGT">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinaKGT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinaKGT&layout=compact&langs_count=2&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinaKGT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&border_radius=20"/>
 </a>
 </p>
+
+<p align="center">
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinaKGT&layout=compact&langs_count=4&theme=radical&hide_border=true&show_icons=true&border_radius=20"/>
+ </p>
 
 
 #
 ### 📦 &nbsp;*My GitHub Repositories*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=Advanced-Python&theme=nightowl)](https://github.com/sinaKGT/Advanced-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=Advanced-Python&theme=nightowl&hide_border=true&locale=en&border_radius=25)](https://github.com/sinaKGT/Advanced-Python)
 
 
 ### 🤝🏻 &nbsp;Connect With Me
