@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying For master exam in Software Enginerring field.\
 🌱 &nbsp;I'm on track for learning more about Edge Computing, Intelligence, Systems Design, and AR/VR.\
 ✍️ &nbsp;In my free time, I read about autonomous cars and drons technology and Self Knowledge books\
-✉️ &nbsp;You can send me an email at SinaKGT@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can send me an email at SinaKGT@gmail.com I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;Tech Stack
 ### *Programming languages and Tools:*
@@ -36,8 +36,7 @@
 #
 ![Backend Roadmap](https://github.com/sinaKGT/sinaKGT/blob/main/assets/Product%20Roadmap.png?raw=true)
 #
-### ⚙️ &nbsp;GitHub Analytics
-
+### ⚙️ &nbsp;My GitHub Analytics
 <p align="center">
 <a href="https://github.com/sinaKGT">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinaKGT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true"/>
