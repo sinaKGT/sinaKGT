@@ -3,14 +3,14 @@
 
 # 👨🏻‍💻 &nbsp;About Me
 
- 💡 &nbsp;I very intersted for Designing RESTful API with Flask and Django and FastAPI and also Develop High Performance Software Solutions.\
-🎓 &nbsp;I'm currently studying For master exam in Software Enginerring field.\
+ 💡 &nbsp;I very intersted for Designing RESTful API with **Flask**, **Django** and **FastAPI** and also Developing High Performance Software Solutions.\
+🎓 &nbsp;I'm currently studying for master exam in **Software Enginerring** field.\
 🌱 &nbsp;I'm on track for learning more about Edge Computing, Intelligence, Systems Design, and AR/VR.\
-✍️ &nbsp;In my free time, I read about autonomous cars and drons technology and Self Knowledge books\
-✉️ &nbsp;You can send me an email at SinaKGT@gmail.com I'll try to respond as soon as I can.
+✍️ &nbsp;In my free time, I read about autonomous cars and drons technology and self knowledge books\
+✉️ &nbsp;You can send me an email at SinaKGT@gmail.com, I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;Tech Stack
-### *Programming languages and Tools:*
+### *⌨Programming languages and Tools:*
 <img alt="Coding" src="https://github.com/sinaKGT/sinaKGT/blob/main/assets/codding-reduce.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -28,14 +28,14 @@
 ![jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter&logoColor=007ACC)\
 ![celery](https://img.shields.io/badge/-celery-05122A?style=flat&logo=celery&logoColor=007ACC)&nbsp;
 
-### *Databases:*
+### *💠Databases*
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=007ACC)\
 ![Sqlite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=007ACC)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=Redis&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
 
-### *Operating System:*
+### *💻Operating System*
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=Linux&logoColor=007ACC)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=Windows&logoColor=007ACC)&nbsp;
 
@@ -52,7 +52,6 @@
 <p align="center">
 <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinaKGT&layout=compact&langs_count=4&theme=radical&hide_border=true&show_icons=true&border_radius=20"/>
  </p>
-
 
 #
 ### 📦 &nbsp;*My GitHub Repositories*
