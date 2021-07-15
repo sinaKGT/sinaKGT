@@ -20,6 +20,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java&logoColor=00599C)\
+![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=00599C)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
@@ -32,14 +33,33 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=007ACC)\
 ![Sqlite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=007ACC)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=Redis&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
+
+### *Operating System:*
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=Linux&logoColor=007ACC)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=Windows&logoColor=007ACC)&nbsp;
+
 #
 ![Backend Roadmap](https://github.com/sinaKGT/sinaKGT/blob/main/assets/Product%20Roadmap.png?raw=true)
 #
-### ⚙️ &nbsp;My GitHub Analytics
+### ⚙️ &nbsp;*My GitHub Analytics*
 <p align="center">
 <a href="https://github.com/sinaKGT">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinaKGT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinaKGT&layout=compact&langs_count=2&theme=radical"/>
 </a>
+</p>
+
+
+#
+### 📦 &nbsp;*My GitHub Repositories*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=Advanced-Python&theme=nightowl)](https://github.com/sinaKGT/Advanced-Python)
+
+
+### 🤝🏻 &nbsp;Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sina-khoshgoftar/"><img src="https://img.shields.io/badge/-SinaKhoshgoftar-05122A?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:SinaKGT@gmail.com"><img src="https://img.shields.io/badge/-SinaKGT@gmail.com-05122A?style=flat&logo=Gmail&logoColor=red"/></a>
+<a href="https://telegram.com/Sina_Khoshgoftar"><img src="https://img.shields.io/badge/-@Sina__Khoshgoftar_-05122A?style=flat&logo=Telegram&logoColor=Blue"/></a>
 </p>
