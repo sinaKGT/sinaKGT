@@ -58,10 +58,7 @@
 
 #
 ### 📦 &nbsp;*My favorite GitHub Repositories*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=Advanced-Python&theme=nightowl&hide_border=true&locale=en&border_radius=25)](https://github.com/sinaKGT/Advanced-Python)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=minimaltab&theme=nightowl&hide_border=true&locale=en&border_radius=25)](https://github.com/sinaKGT/minimaltab)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=Advanced-Python&theme=nightowl&hide_border=true&locale=en&border_radius=25)](https://github.com/sinaKGT/Advanced-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=minimaltab&theme=nightowl&hide_border=true&locale=en&border_radius=25)](https://github.com/sinaKGT/minimaltab)
 
 ### 🤝🏻 &nbsp;Connect With Me
 
