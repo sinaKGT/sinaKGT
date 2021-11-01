@@ -19,7 +19,10 @@
 ![Fast Api](https://img.shields.io/badge/-Fastapi-05122A?style=flat&logo=fastapi)\
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java&logoColor=00599C)\
+![javaScript](https://img.shields.io/badge/-java_Script-05122A?style=flat&logo=JavaScript&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=00599C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=00599C)\
+![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=00599C)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -54,8 +57,10 @@
  </p>
 
 #
-### 📦 &nbsp;*My GitHub Repositories*
+### 📦 &nbsp;*My favorite GitHub Repositories*
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=Advanced-Python&theme=nightowl&hide_border=true&locale=en&border_radius=25)](https://github.com/sinaKGT/Advanced-Python)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinaKGT&repo=minimaltab&theme=nightowl&hide_border=true&locale=en&border_radius=25)](https://github.com/sinaKGT/minimaltab)
 
 
 ### 🤝🏻 &nbsp;Connect With Me
