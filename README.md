@@ -11,7 +11,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 ### *⌨Programming languages and Tools:*
-<img alt="Coding" src="https://github.com/sinaKGT/sinaKGT/blob/main/assets/codding-reduce.gif" align="right"/>
+<img alt="Coding" src="https://github.com/sinaKGT/sinaKGT/blob/main/assets/coding%20smaller.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -43,7 +43,8 @@
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=Windows&logoColor=007ACC)&nbsp;
 
 #
-![Backend Roadmap](https://github.com/sinaKGT/sinaKGT/blob/main/assets/Product%20Roadmap.png?raw=true)
+![Backend Roadmap](https://raw.githubusercontent.com/sinaKGT/sinaKGT/main/assets/roadmap.svg?raw=true)
+
 #
 ### ⚙️ &nbsp;*My GitHub Analytics*
 <p align="center">
