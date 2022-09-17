@@ -11,7 +11,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 ### *⌨Programming languages and Tools:*
-<img alt="Coding" src="https://github.com/sinaKGT/sinaKGT/blob/main/assets/coding%20smaller.gif" align="right"/>&nbsp;
+<img alt="Coding" src="https://github.com/sinaKGT/sinaKGT/blob/main/assets/coding%20smaller.gif" align="right">
+&nbsp;&nbsp;&nbsp;&nbsp;     
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
