@@ -52,7 +52,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=E95420)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=Windows&logoColor=007ACC)&nbsp;
 
-# My Agentic AI Roadmap
+# _My Agentic AI Roadmap_
 ![Agentic AI Roadmap](https://raw.githubusercontent.com/sinaKGT/sinaKGT/refs/heads/main/assets/Roadmap.SVG)
 
 #
