@@ -74,7 +74,6 @@
 ### 🤝🏻 &nbsp;Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sina-khoshgoftar/"><img src="https://img.shields.io/badge/-SinaKhoshgoftar-05122A?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:SinaKGT@gmail.com"><img src="https://img.shields.io/badge/-SinaKGT@gmail.com-05122A?style=flat&logo=Gmail&logoColor=red"/></a>
 <a href="https://telegram.com/Sina_Khoshgoftar"><img src="https://img.shields.io/badge/-@Sina__Khoshgoftar_-05122A?style=flat&logo=Telegram&logoColor=Blue"/></a>
 </p>
