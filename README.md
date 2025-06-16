@@ -1,45 +1,55 @@
 <img alt="Coding" src="./assets/Hand%20Wave.gif" width='50' align="left"/><h3>Hi! I'm Sina Welcome To My Home🏠</h3>
 
+## 👨🏻‍💻  About Me
 
-# 👨🏻‍💻 &nbsp;About Me
+💡  I'm a professional **AI solution provider**, helping businesses and teams design and deploy intelligent systems to solve real-world problems across industries. \
+🧠  I specialize in **Deep Learning**, **Agentic AI**, and scalable API design using **FastAPI** and **Flask**. \
+🎓  Currently working on my **PhD project** in **Agentic AI**, with a focus on **Smart Cities**. \
+🌱  Actively learning about **LLMs**, **AI Agents**, and **Systems Design**. \
+✍️  In my free time, I explore topics like **autonomous vehicles**, **drone technology**, and **self-development**. \
+✉️  Feel free to reach out at **[SinaKGT@gmail.com](mailto:SinaKGT@gmail.com)** — I’ll get back to you as soon as I can.
 
- 💡 &nbsp;I very intersted for Designing RESTful API with **Flask**, **Django** and **FastAPI** and also Developing High Performance Software Solutions.\
-🎓 &nbsp;I'm currently studying for master exam in **Software Enginerring** field.\
-🌱 &nbsp;I'm on track for learning more about Edge Computing, Intelligence, Systems Design, and AR/VR.\
-✍️ &nbsp;In my free time, I read about autonomous cars and drons technology and self knowledge books\
-✉️ &nbsp;You can send me an email at SinaKGT@gmail.com, I'll try to respond as soon as I can.
+
 
 ## 🛠 &nbsp;Tech Stack
-### *⌨Programming languages and Tools:*
 <img alt="Coding" src="https://github.com/sinaKGT/sinaKGT/blob/main/assets/coding%20smaller.gif" align="right">
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Fast Api](https://img.shields.io/badge/-Fastapi-05122A?style=flat&logo=fastapi)\
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![javaScript](https://img.shields.io/badge/-java_Script-05122A?style=flat&logo=JavaScript&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=00599C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=00599C)\
-![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=00599C)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter&logoColor=007ACC)\
-![celery](https://img.shields.io/badge/-celery-05122A?style=flat&logo=celery&logoColor=007ACC)&nbsp;
+### ⚙️ _AI & Frameworks_  
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=ee4c2c)
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=LangGraph&logoColor=FFFFFF)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=FF4B4B)&nbsp;  
 
-### *💠Databases*
+### 🔄 _Automation & APIs_  
+![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=EA4B71)
+![Fast Api](https://img.shields.io/badge/-Fastapi-05122A?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;  
+
+### 📟 _Programming Languages_
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![javaScript](https://img.shields.io/badge/-java_Script-05122A?style=flat&logo=JavaScript&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=Tailwind+CSS&logoColor=06B6D4)&nbsp;  
+![Shell Script](https://img.shields.io/badge/Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=00599C)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+![jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=Jupyter&logoColor=007ACC)&nbsp;  
+
+
+
+### 🗄️_Databases_
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=007ACC)\
 ![Sqlite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=007ACC)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=Redis&logoColor=007ACC)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=FF4438)&nbsp;
+![celery](https://img.shields.io/badge/-celery-05122A?style=flat&logo=celery&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
 
 ### *💻Operating System*
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=Linux&logoColor=007ACC)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=E95420)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=Windows&logoColor=007ACC)&nbsp;
 
 #
